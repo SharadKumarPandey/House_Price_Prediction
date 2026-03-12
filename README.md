@@ -25,7 +25,6 @@ Removing unnecessary features
 
 EDA was performed to understand relationships between variables.
 
---------------------------------
 Key analysis:
 
 Distribution of house prices
